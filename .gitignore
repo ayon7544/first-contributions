@@ -1,7 +1,6 @@
 .DS_Store;
 .idea/
 .vs
-.env
 # User-specific files
 *.rsuser
 *.suo
@@ -392,3 +391,4 @@ temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
 branch_structure.json
+config.bat
